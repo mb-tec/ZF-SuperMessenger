@@ -1,15 +1,15 @@
 <?php
 
-namespace Mbtec\SuperMessenger\View\Helper\Service;
+namespace MBtec\SuperMessenger\View\Helper\Service;
 
 use Zend\ServiceManager\FactoryInterface,
     Zend\ServiceManager\ServiceLocatorInterface,
-    Mbtec\SuperMessenger\View\Helper\SuperMessenger,
+    MBtec\SuperMessenger\View\Helper\SuperMessenger,
     SuperMessenger\View\Helper\Service as SmService;
 
 /**
  * Class        SuperMessengerFactory
- * @package     Mbtec\SuperMessenger\View\Helper\Service
+ * @package     MBtec\SuperMessenger\View\Helper\Service
  * @author      Matthias Büsing <info@mb-tec.eu>
  * @copyright   2016 Matthias Büsing
  * @license     http://www.opensource.org/licenses/bsd-license.php BSD License

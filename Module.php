@@ -1,14 +1,14 @@
 <?php
 
-namespace Mbtec\SuperMessenger;
+namespace MBtec\SuperMessenger;
 
 use Zend\ModuleManager\Feature;
 
 /**
  * Class        Module
- * @package     Mbtec\SuperMessenger
+ * @package     MBtec\SuperMessenger
  * @author      Matthias Büsing <info@mb-tec.eu>
- * @copyright   2015 Matthias Büsing
+ * @copyright   2016 Matthias Büsing
  * @license     http://www.opensource.org/licenses/bsd-license.php BSD License
  * @link        http://mb-tec.eu
  */
@@ -37,7 +37,7 @@ class Module implements Feature\AutoloaderProviderInterface
                 'flashmessenger' => 'mbSuperMessenger',
             ],
             'factories' => [
-                'mbSuperMessenger' => 'Mbtec\SuperMessenger\View\Helper\Service\SuperMessengerFactory',
+                'mbSuperMessenger' => 'MBtec\SuperMessenger\View\Helper\Service\SuperMessengerFactory',
             ],
         ];
     }

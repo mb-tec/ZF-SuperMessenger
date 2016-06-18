@@ -1,12 +1,12 @@
 <?php
 
-namespace Mbtec\SuperMessenger\View\Helper;
+namespace MBtec\SuperMessenger\View\Helper;
 
 use SuperMessenger\View\Helper\SuperMessenger as BlanchonVincentSuperMessenger;
 
 /**
  * Class        SuperMessenger
- * @package     Mbtec\SuperMessenger\View\Helper
+ * @package     MBtec\SuperMessenger\View\Helper
  * @author      Matthias Büsing <info@mb-tec.eu>
  * @copyright   2016 Matthias Büsing
  * @license     http://www.opensource.org/licenses/bsd-license.php BSD License
