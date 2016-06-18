@@ -1,0 +1,29 @@
+{
+  "name":        "mb-tec/SuperMessenger",
+  "description": "SuperMessenger based on blanchonvincent/super-messenger for Zend Framework 2",
+  "homepage":    "https://github.com/mb-tec/SuperMessenger",
+  "type":        "library",
+  "license":     "BSD-3-Clause",
+  "keywords":   ["mb-tec", "supermessenger", "zf2", "zend", "framework"],
+  "authors": [
+    {
+      "name":     "Matthias Büsing",
+      "email":    "info@mb-tec.eu",
+      "homepage": "http://www.mb-tec.eu",
+      "role":     "Developer"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": ">=5.5",
+    "zendframework/zend-version": "2.*",
+    "blanchonvincent/super-messenger": "1.01"
+  },
+  "suggest": {
+    "zendframework/zend-modulemanager": "To use it as a Zend Framework module"
+  },
+  "autoload": {
+    "psr-0": {"MBtecSuperMessenger": "src/"}
+  }
+}
