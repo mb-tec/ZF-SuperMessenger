@@ -3,8 +3,8 @@
   "description": "SuperMessenger based on blanchonvincent/super-messenger for Zend Framework 2",
   "homepage":    "https://github.com/mb-tec/SuperMessenger",
   "type":        "library",
-  "license":     "BSD-3-Clause",
-  "keywords":   ["mb-tec", "supermessenger", "zf2", "zend", "framework"],
+  "license":     "GNU General Public License",
+  "keywords":   ["mb-tec", "messenger", "zf2", "zend", "framework"],
   "authors": [
     {
       "name":     "Matthias Büsing",
