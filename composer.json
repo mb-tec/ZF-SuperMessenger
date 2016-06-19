@@ -1,7 +1,7 @@
 {
   "name":        "mb-tec/super-messenger",
   "description": "SuperMessenger based on blanchonvincent/super-messenger for Zend Framework 2",
-  "homepage":    "https://github.com/mb-tec/SuperMessenger",
+  "homepage":    "https://bitbucket.org/mbuesing/zf-supermessenger",
   "type":        "library",
   "license":     "GNU General Public License",
   "keywords":   ["mb-tec", "messenger", "zf2", "zend", "framework"],
