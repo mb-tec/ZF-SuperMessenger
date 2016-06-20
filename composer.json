@@ -26,6 +26,9 @@
   "autoload": {
     "psr-0": {
       "MBtecZfSuperMessenger": "src/"
-    }
+    },
+    "classmap": [
+      "./Module.php"
+    ]
   }
 }
