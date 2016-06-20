@@ -1,6 +1,6 @@
 <?php
 
-namespace MBtec\SuperMessenger\View\Helper;
+namespace MBtecZfSuperMessenger\View\Helper;
 
 use SuperMessenger\View\Helper\SuperMessenger as BlanchonVincentSuperMessenger;
 

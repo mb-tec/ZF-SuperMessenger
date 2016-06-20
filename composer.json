@@ -24,6 +24,8 @@
     "zendframework/zend-modulemanager": "To use it as a Zend Framework module"
   },
   "autoload": {
-    "psr-0": {"MBtecZfSuperMessenger": "src/"}
+    "psr-0": {
+      "MBtecZfSuperMessenger": "src/"
+    }
   }
 }

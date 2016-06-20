@@ -1,6 +1,6 @@
 <?php
 
-namespace MBtec\SuperMessenger;
+namespace MBtecZfSuperMessenger;
 
 use Zend\ModuleManager\Feature;
 
