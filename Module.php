@@ -37,7 +37,7 @@ class Module implements Feature\AutoloaderProviderInterface
                 'flashmessenger' => 'mbSuperMessenger',
             ],
             'factories' => [
-                'mbSuperMessenger' => 'MBtec\SuperMessenger\View\Helper\Service\SuperMessengerFactory',
+                'mbSuperMessenger' => 'MBtecZfSuperMessenger\View\Helper\Service\SuperMessengerFactory',
             ],
         ];
     }

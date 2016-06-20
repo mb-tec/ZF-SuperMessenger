@@ -2,10 +2,10 @@
 
 namespace MBtecZfSuperMessenger\View\Helper\Service;
 
-use Zend\ServiceManager\FactoryInterface,
-    Zend\ServiceManager\ServiceLocatorInterface,
-    MBtec\SuperMessenger\View\Helper\SuperMessenger,
-    SuperMessenger\View\Helper\Service as SmService;
+use Zend\ServiceManager\FactoryInterface;
+use Zend\ServiceManager\ServiceLocatorInterface;
+use MBtecZfSuperMessenger\View\Helper\SuperMessenger;
+use SuperMessenger\View\Helper\Service as SmService;
 
 /**
  * Class        SuperMessengerFactory
