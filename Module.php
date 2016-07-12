@@ -2,7 +2,7 @@
 
 namespace MBtecZfSuperMessenger;
 
-use Zend\ModuleManager\Feature;
+use Zend\ModuleManager\Feature\AutoloaderProviderInterface;
 
 /**
  * Class        Module
@@ -12,7 +12,7 @@ use Zend\ModuleManager\Feature;
  * @license     http://www.opensource.org/licenses/bsd-license.php BSD License
  * @link        http://mb-tec.eu
  */
-class Module implements Feature\AutoloaderProviderInterface
+class Module implements AutoloaderProviderInterface
 {
     /**
      * @return array
