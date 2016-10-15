@@ -1,16 +1,22 @@
 {
-  "name":        "mb-tec/zf-super-messenger",
-  "description": "SuperMessenger based on blanchonvincent/super-messenger for Zend Framework 2",
-  "homepage":    "https://bitbucket.org/mbuesing/zf-supermessenger",
-  "type":        "library",
-  "license":     "GNU General Public License",
-  "keywords":   ["mb-tec", "messenger", "zf2", "zend", "framework"],
+  "name": "mb-tec/zf-super-messenger",
+  "description": "SuperMessenger based on blanchonvincent/super-messenger for Zend Framework 3",
+  "homepage": "https://bitbucket.org/mbuesing/zf-supermessenger",
+  "type": "library",
+  "license": "GPL-3.0",
+  "keywords": [
+    "mb-tec",
+    "messenger",
+    "zf3",
+    "zend",
+    "framework"
+  ],
   "authors": [
     {
-      "name":     "Matthias Büsing",
-      "email":    "info@mb-tec.eu",
+      "name": "Matthias Büsing",
+      "email": "info@mb-tec.eu",
       "homepage": "http://www.mb-tec.eu",
-      "role":     "Developer"
+      "role": "Developer"
     }
   ],
   "minimum-stability": "dev",
